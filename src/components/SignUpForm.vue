@@ -1,5 +1,4 @@
 <template>
-  <h1>Sign up form</h1>
   <form>
     <label for="email">Email</label>
     <input type="email" v-model="email" />
